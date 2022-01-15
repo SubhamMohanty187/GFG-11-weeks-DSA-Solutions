@@ -13,5 +13,6 @@ int equilibriumPoint(long long a[], int n) {
             
             lsum+= a[i];
         }
+        
         return -1;
     }
