@@ -1,6 +1,6 @@
 bool isPrime(int N)
     {
-        //Your code here
+       
         int f = 0;
         for(int i =2;i*i <= N;i++)
         {
